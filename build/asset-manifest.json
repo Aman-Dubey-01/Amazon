@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43d2a7fe.css",
+    "main.js": "/static/js/main.4f83981d.js",
+    "static/media/offer.jpg": "/static/media/offer.9decad0b2062aaf5292d.jpg",
+    "static/media/cream.jpg": "/static/media/cream.31979d48a6653018a6ff.jpg",
+    "static/media/shoe.png": "/static/media/shoe.079d41483e20d1b4b657.png",
+    "static/media/row1img4.png": "/static/media/row1img4.710f2039e225c90f96f5.png",
+    "static/media/row1img3.png": "/static/media/row1img3.c1892428639583f1b679.png",
+    "static/media/sale3.jpg": "/static/media/sale3.b09373072a17d223e659.jpg",
+    "static/media/sale4.jpg": "/static/media/sale4.a62b1568cc4d205bb7dd.jpg",
+    "static/media/home1.jpg": "/static/media/home1.4ee41b307e2ba3c4a107.jpg",
+    "static/media/ear.jpg": "/static/media/ear.f262d568ca52faf6df33.jpg",
+    "static/media/logo.png": "/static/media/logo.64a0d895e5f0098d5422.png",
+    "static/media/empty-cart.png": "/static/media/empty-cart.59a4de4a2f7c0b4dfcce.png",
+    "static/media/amazon_black.png": "/static/media/amazon_black.740aa7b25a15d6df9b43.png",
+    "static/media/row1img1.jpg": "/static/media/row1img1.5bd8d21fb892ae87003d.jpg",
+    "static/media/row1img2.jpg": "/static/media/row1img2.b297f593c350257b1923.jpg",
+    "static/media/loginmsg.svg": "/static/media/loginmsg.7d3158e69144600ce397f0ef50471f00.svg",
+    "static/media/ladder.webp": "/static/media/ladder.2bdc2a5cc1629d1901b1.webp",
+    "index.html": "/index.html",
+    "main.43d2a7fe.css.map": "/static/css/main.43d2a7fe.css.map",
+    "main.4f83981d.js.map": "/static/js/main.4f83981d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d2a7fe.css",
+    "static/js/main.4f83981d.js"
+  ]
+}
